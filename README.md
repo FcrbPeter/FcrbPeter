@@ -1,4 +1,8 @@
-### Hi there 👋
+### FcrbPeter
+
+[![FcrbPeter's GitHub stats](https://github-readme-stats.vercel.app/api?username=FcrbPeter&show_icons=true&hide_rank=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FcrbPeter&hide=css,html&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FcrbPeter/FcrbPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
